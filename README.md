@@ -6,7 +6,7 @@ to the growth of this new amazing resource.
 
 ## Usage template v. 2.2
 
-Remove tag <p> and write your code.
+Remove tag `<p>` and write your code.
 HTML:
 
     <p style="padding:100px;text-transform:uppercase;font-size:9px;"><a href="README">readme file</a></p>
